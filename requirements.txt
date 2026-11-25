@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+pandas
+pyserial
+picamera2
+ultralytics
+torch
+torchvision
+executorch
