@@ -1,9 +1,6 @@
-numpy
-opencv-python-headless
-pandas
-pyserial
-picamera2
-ultralytics
-torch
-torchvision
-executorch
+numpy>=1.26
+opencv-python-headless>=4.9
+ncnn>=1.0.20240820
+pyyaml>=6.0
+pandas>=2.2
+pyserial>=3.5

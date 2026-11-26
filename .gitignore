@@ -1,0 +1,21 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+ps5venv/
+ps5venv2/
+.venv/
+
+# Large Model Artifacts (exceed GitHub 100 MB limit — download/export via colab/ scripts)
+models/*.pte
+models/*.pt
+models/*.model
+models/*.bin
+models/*.param
+models/yolov8n_ncnn_model/
+
+# Runtime Logs & Databases
+results/*.jsonl
+results/*.db
+results/*.csv
+logs/*.log
+.DS_Store
